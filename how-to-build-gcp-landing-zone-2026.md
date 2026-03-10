@@ -56,7 +56,7 @@ The most common misconception is that compliance can be added after deployment. 
 
 Before any configuration, you need to choose the right complexity profile for your organization. This single decision determines the scope of everything that follows.
 
-![Merlin Discovery Complete — Standard profile recommended with 4-8 hours setup time](images/msp-Discovery_Complete-2.png)
+![Merlin Discovery Complete — Standard profile recommended with 4-8 hours setup time](images/msp-DiscoveryComplete-2.png)
 *After structured discovery, Merlin recommends a profile with confidence score. You can override the recommendation at any time.*
 
 ### The Three Profiles
@@ -134,7 +134,7 @@ Once discovery is complete and a profile is selected, configuration covers all 1
 - **Guided Mode** — see the recommended setting with an explanation of why, then accept or adjust
 - **Expert Mode** — full access to every option, Terraform variable names visible alongside each setting
 
-![Merlin Discovery Complete — Simple profile recommended, Level 1, with Express/Guided/Expert configuration mode selector](images/msp-Discovery_Complete-1.png)
+![Merlin Discovery Complete — Simple profile recommended, Level 1, with Express/Guided/Expert configuration mode selector](images/msp-DiscoveryComplete-1.png)
 *After discovery, you choose your configuration mode. Express is fastest; Expert exposes every Terraform variable. You can switch modes freely per domain.*
 
 You can switch modes freely between domains. Most production deployments use Express for straightforward sections (naming, preferences, application services) and Guided or Expert for the domains that carry compliance or security weight (IAM, networking, security, logging).
