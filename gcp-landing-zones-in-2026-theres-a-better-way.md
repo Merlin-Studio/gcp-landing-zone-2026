@@ -48,7 +48,7 @@ This is where the real work happens — and where Merlin earns its place.
 
 You configure up to 16 technical domains. For each setting, Merlin shows you the recommendation, explains why, and tags which compliance frameworks require it. Every toggle, every dropdown — in context.
 
-![Merlin IAM configuration — Security Policies with Domain Restriction and Service Account Key Policy, compliance badges SOC 2, PCI-DSS, CIS, SOX](images/msp-iam-configuration.png)
+![Merlin IAM configuration — Security Policies with Domain Restriction and Service Account Key Policy, compliance badges SOC 2, PCI-DSS, CIS, SOX](images/configuration-1.png)
 *Every setting tagged to its compliance framework. "Deny all key creation" marked PCI-DSS and CIS Benchmarks. Domain restriction tagged SOC 2, PCI-DSS, SOX. No guessing what's required.*
 
 Three modes let you control depth per domain:
