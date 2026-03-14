@@ -81,8 +81,8 @@ Requirements change? Update your inputs, regenerate. Terraform, docs, diagrams, 
 
 ## Going Deeper
 
-- **Healthcare, fintech, insurance** → [GCP Landing Zone for Regulated Industries](../gcp-landing-zone-regulated/)
-- **Government** → FedRAMP and NIS2/GDPR *(coming soon)*
+- **Healthcare,** → [GCP Landing Zone for a healthcare organization](../Healthcare-Example/)
+- **Government** → [GCP Landing Zone for Regulated Industries](../gcp-landing-zone-regulated/)
 - **Startups** → Fast to production *(coming soon)*
 
 ---
