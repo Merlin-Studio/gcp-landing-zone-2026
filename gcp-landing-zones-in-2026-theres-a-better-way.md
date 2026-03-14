@@ -79,12 +79,9 @@ Requirements change? Update your inputs, regenerate. Terraform, docs, diagrams, 
 
 ---
 
-## Going Deeper
-
-- **Healthcare,** → [GCP Landing Zone for a healthcare organization](../Healthcare-Example/)
-- **Government** → [GCP Landing Zone for Regulated Industries](../gcp-landing-zone-regulated/)
+- **Healthcare** → [GCP Landing Zone for a healthcare organization](https://github.com/Merlin-Studio/Healthcare-Example)
+- **Government** → [GCP Landing Zone for US Federal Agency](https://github.com/Merlin-Studio/US-Federal-Agency-Example)
 - **Startups** → Fast to production *(coming soon)*
-
 ---
 
 ## Try It Free

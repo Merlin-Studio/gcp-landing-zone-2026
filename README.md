@@ -8,7 +8,7 @@ built and validated with [Merlin Studio](https://site.merlin-studio.cloud).
 | Scenario | Compliance | Profile |
 |----------|------------|---------|
 | [US Federal Agency](https://github.com/Merlin-Studio/US-Federal-Agency-Example) | FedRAMP, NIST, SOC 2, SOX | Advanced |
-| Healthcare & PCI | SOC 2, ISO, PCI, HIPAA | Standard | 
+| [Healthcare & PCI](https://github.com/Merlin-Studio/Healthcare-Example) | FedRAMP, NIST SOC 2, ISO, PCI, HIPAA | Standard | 
 | Startup | — | Simple |
 
 Each repository contains the complete Merlin output — FAST YAML files, 
