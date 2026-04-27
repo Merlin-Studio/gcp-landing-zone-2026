@@ -81,14 +81,14 @@ Requirements change? Update your inputs, regenerate. Terraform, docs, diagrams, 
 
 - **Healthcare** → [GCP Landing Zone for a healthcare organization](https://github.com/Merlin-Studio/Healthcare-Example)
 - **Government** → [GCP Landing Zone for US Federal Agency](https://github.com/Merlin-Studio/US-Federal-Agency-Example)
-- **Startups** → Fast to production *(coming soon)*
+- **Startups** → [Fast to production] (https://github.com/Merlin-Studio/Startup-Example)
 ---
 
 ## Try It Free
 
 Two weeks, no credit card. See what your landing zone should look like before you write a line of Terraform.
 
-→ **[Request free preview access](https://site.merlin-studio.cloud/#preview-form)**
+→ **[free access](https://app.merlin-studio.cloud/**
 
 ---
 

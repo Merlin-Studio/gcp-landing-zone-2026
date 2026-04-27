@@ -1,7 +1,7 @@
 # GCP Landing Zone in 2026
 
 Practical GCP landing zone examples for three common scenarios — 
-built and validated with [Merlin Studio](https://site.merlin-studio.cloud).
+built and validated with [Merlin Studio](https://app.merlin-studio.cloud).
 
 ## Examples
 
@@ -9,9 +9,9 @@ built and validated with [Merlin Studio](https://site.merlin-studio.cloud).
 |----------|------------|---------|
 | [US Federal Agency](https://github.com/Merlin-Studio/US-Federal-Agency-Example) | FedRAMP, NIST, SOC 2, SOX | Advanced |
 | [Healthcare & PCI](https://github.com/Merlin-Studio/Healthcare-Example) | FedRAMP, NIST SOC 2, ISO, PCI, HIPAA | Standard | 
-| Startup | — | Simple |
+| [Startup](https://github.com/Merlin-Studio/Startup-Example) |CIS GCP Benchmarks | — | Simple |
 
-Each repository contains the complete Merlin output — FAST YAML files, 
+Each repository contains the complete Merlin output — FAST YAML or tfvars files, 
 architecture diagrams, scorecards, and an article explaining the design decisions.
 
 ## What is FAST?
