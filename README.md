@@ -37,4 +37,6 @@ signup, no email. Guest mode gives you the full Discovery → Configuration
 is Google's reference framework for GCP landing zones. These examples provide 
 ready-to-use FAST configuration for regulated and complex scenarios.
 
-© 2026 Merlin Studio. Licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/).
+Merlin Studio implements the Compiled AI paradigm: LLMs at build time, deterministic code at runtime. This makes generated artifacts auditable and reproducible — properties that direct LLM generation can't provide.
+
+Article: [Compile-Time AI for GCP Landing Zones](https://medium.com/google-cloud/compile-time-ai-for-gcp-landing-zones-2555560fbd2f).
