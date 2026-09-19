@@ -7,6 +7,8 @@ built and validated with [Merlin Studio](https://app.merlin-studio.cloud).
 > start designing your own landing zone instantly.
 > **[Open Merlin →](https://app.merlin-studio.cloud)**
 
+✉️ **Questions about this example, or need one shaped for your organization?** Write to [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=gcp-landing-zone-2026) — questions, corrections and requests are all welcome.
+
 ## Examples
 
 | Scenario | Compliance | Profile |
@@ -42,5 +44,7 @@ Merlin Studio implements the Compiled AI paradigm: LLMs at build time, determini
 Article: [Compile-Time AI for GCP Landing Zones](https://medium.com/google-cloud/compile-time-ai-for-gcp-landing-zones-2555560fbd2f).
 
 ---
+
+✉️ Questions or feedback: [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=gcp-landing-zone-2026)
 
 ⭐ If this saved you time, a star helps others find it.
