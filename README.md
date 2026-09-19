@@ -40,3 +40,7 @@ ready-to-use FAST configuration for regulated and complex scenarios.
 Merlin Studio implements the Compiled AI paradigm: LLMs at build time, deterministic code at runtime. This makes generated artifacts auditable and reproducible — properties that direct LLM generation can't provide.
 
 Article: [Compile-Time AI for GCP Landing Zones](https://medium.com/google-cloud/compile-time-ai-for-gcp-landing-zones-2555560fbd2f).
+
+---
+
+⭐ If this saved you time, a star helps others find it.
