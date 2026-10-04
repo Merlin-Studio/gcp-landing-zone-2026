@@ -32,6 +32,8 @@ scale) and Merlin will produce a deployment-ready FAST configuration.
 signup, no email. Guest mode gives you the full Discovery → Configuration
 → Generation flow.
 
+Merlin now also builds what runs on the landing zone: 25 workload archetypes, four of them shown end to end in [a complete example](https://github.com/Merlin-Studio/GCP-Terraform-Vertex-AI-RAG-GKE-Examples).
+
 ---
 ## What is FAST?
 
