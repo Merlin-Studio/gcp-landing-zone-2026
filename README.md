@@ -9,6 +9,8 @@ built and validated with [Merlin Studio](https://app.merlin-studio.cloud).
 
 ✉️ **Questions about this example, or need one shaped for your organization?** Write to [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=gcp-landing-zone-2026) — questions, corrections and requests are all welcome.
 
+🏢 **Want Merlin Studio inside your own Google Cloud?** It can be installed in your organization's own GCP environment. Write to [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=Merlin%20Studio%20in%20our%20own%20Google%20Cloud) to arrange it.
+
 ## Examples
 
 | Scenario | Compliance | Profile |
@@ -19,6 +21,18 @@ built and validated with [Merlin Studio](https://app.merlin-studio.cloud).
 
 Each repository contains the complete Merlin output — FAST YAML or tfvars files, 
 architecture diagrams, scorecards, and an article explaining the design decisions.
+
+---
+
+## What is FAST?
+
+[Cloud Foundation Fabric FAST](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/tree/master/fast) 
+is Google's reference framework for GCP landing zones. These examples provide 
+ready-to-use FAST configuration for regulated and complex scenarios.
+
+Merlin Studio implements the Compiled AI paradigm: LLMs at build time, deterministic code at runtime. This makes generated artifacts auditable and reproducible — properties that direct LLM generation can't provide.
+
+Article: [Compile-Time AI for GCP Landing Zones](https://medium.com/google-cloud/compile-time-ai-for-gcp-landing-zones-2555560fbd2f).
 
 ---
 
@@ -35,18 +49,9 @@ signup, no email. Guest mode gives you the full Discovery → Configuration
 Merlin now also builds what runs on the landing zone: 25 workload archetypes, four of them shown end to end in [a complete example](https://github.com/Merlin-Studio/GCP-Terraform-Vertex-AI-RAG-GKE-Examples).
 
 ---
-## What is FAST?
-
-[Cloud Foundation Fabric FAST](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/tree/master/fast) 
-is Google's reference framework for GCP landing zones. These examples provide 
-ready-to-use FAST configuration for regulated and complex scenarios.
-
-Merlin Studio implements the Compiled AI paradigm: LLMs at build time, deterministic code at runtime. This makes generated artifacts auditable and reproducible — properties that direct LLM generation can't provide.
-
-Article: [Compile-Time AI for GCP Landing Zones](https://medium.com/google-cloud/compile-time-ai-for-gcp-landing-zones-2555560fbd2f).
-
----
 
 ✉️ Questions or feedback: [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=gcp-landing-zone-2026)
+
+🏢 Merlin Studio can be installed in your own Google Cloud environment — [intentarcha@gmail.com](mailto:intentarcha@gmail.com?subject=Merlin%20Studio%20in%20our%20own%20Google%20Cloud).
 
 ⭐ If this saved you time, a star helps others find it.
